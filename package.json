@@ -12,7 +12,7 @@
     "url": "git+https://github.com/uberi/telemetry-next-node.git"
   },
   "dependencies": {
-    "superagent": "0.17.0",
+    "superagent": "^3.7.0",
     "superagent-retry": "0.3.0"
   },
   "devDependencies": {
